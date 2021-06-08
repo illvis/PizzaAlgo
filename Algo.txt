@@ -1,9 +1,12 @@
 1. Decide which business to order from
-2. Decide which type of pizza to order
+2. Decide which type and how much pizza to order 
 3. Call the Pizza place
 4. Order the pizza
-    4a. Pay over phone
-    4b. Pay at door
+    4a. Pay over phone 
+    - Provide payment information
+    4b. Pay at door with cash
 5. Wait for delivery
 6. Greet delivery driver
-7. See step 4b if necessary
+    - Refer to step 4b. if necessary
+    - Tip driver (Optional)
+7. Enjoy Pizza
